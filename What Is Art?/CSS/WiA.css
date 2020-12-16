@@ -1,0 +1,181 @@
+/* ################################################ */
+/*                      TO DO                       */
+/* ################################################ */
+/*
+
+
+
+
+
+*/
+/* ################################################ */
+/*                      TO DO                       */
+/* ################################################ */
+
+/* ################################################ */
+
+/* ################################################ */
+
+/* ################################################ */
+
+/* ################################################ */
+/*                   PHONE SCREEN                   */
+/* ################################################ */
+@media screen and (max-width: 750px) {
+
+/*                   BODY LAYOUT                    */
+
+  body {
+    background: #E9C46A;
+    margin: 10% 5% 5% 2%;
+  }
+
+/*                   HEADER PAGE                    */
+
+  #headerTitle {
+    text-align: center;
+    text-transform: uppercase;
+    color: #2A9D8F;
+    width: 100%;
+  }
+
+/*                 WELCOME PAGE                   */
+
+  .welcomingScreen {
+    margin-top: 35%;
+  }
+
+  #welcomeMsg {
+    text-align: center;
+    color: #2A9D8F;
+  }
+
+  #welcomeIntro {
+    margin: 0 3% 0 5%;
+    border-radius: 1em;
+    text-align: center;
+    color: #264653;
+  }
+
+  .buttonDiv {
+    text-align: center;
+  }
+
+  #buttonBut {
+    width: 12em;
+    height: 4em;
+    background: #E76F51;
+    color: #E9C46A;
+    border-color: #F4A261;
+  }
+
+/*                     QUIZ PAGE                   */
+
+  .quizImage{
+    min-height: 13em;
+    max-height: 13em;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: thick;
+    border-color: #E76F51;
+    width: 100%;
+  }
+
+/*                     QUIZ PAGE                   */
+
+
+
+/*                   ENDING PAGE                    */
+
+  #endingTitle {
+    margin-top: 30%;
+    color: #264653;
+    text-align: center;
+  }
+
+  #quizResult {
+    color: #E76F51;
+    text-align: center;
+  }
+
+  #conclusionTitle {
+    margin-top: 15%;
+    color: #2A9D8F;
+    text-align: center;
+
+  }
+
+  #conclusionMsg {
+    color: #264653;
+    text-align: justify;
+    margin: 0 8% 0 8%;
+  }
+
+  #conclusionScore {
+    color: #E76F51;
+    text-align: center;
+  }
+
+
+
+
+/*                   FOOTER PAGE                    */
+
+  a {
+    text-decoration: none;
+  }
+
+  .logoContainer {
+    width: 50%;
+    position:absolute;
+    bottom: 0;
+    margin-right: 5%;
+  }
+
+  .logoImage {
+    width: 25%;
+    text-align: center;
+    margin-left: 2%;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: medium;
+    border-color: #F4A261;
+  }
+
+  .creditsContainter {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: block;
+    margin-right: 5%;
+    color: #2A9D8F;
+  }
+
+
+
+}
+
+
+/* ################################################ */
+/*                   PHONE SCREEN                   */
+/* ################################################ */
+
+/* ################################################ */
+
+/* ################################################ */
+/*                    WIDE SCREEN                   */
+/* ################################################ */
+
+
+
+@media and screen (min-width: 750px) {
+
+
+
+
+}
+
+
+/* ################################################ */
+/*                    WIDE SCREEN                   */
+/* ################################################ */

@@ -1,9 +1,14 @@
 # What is art?
 What is art? 
 
-can you tell which artpiece has been made by an artificial intelligence?
+can you tell which artpiece has been created by an artificial intelligence?
 
 
 # needs to be updated, work in progress #
+TO DO:
+- add php 
+- increase responsive design 
 
-will add php soon 
+
+viewable from 
+http://whatisart.22web.org/?i=1

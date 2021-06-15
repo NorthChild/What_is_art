@@ -11,4 +11,4 @@ TO DO:
 
 
 viewable from 
-http://whatisart.22web.org/?i=1
+http://whatisart.principia-nova.net/

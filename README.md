@@ -10,5 +10,5 @@ TO DO:
 - increase responsive design 
 
 
-viewable from 
+# viewable at 
 http://whatisart.principia-nova.net/
